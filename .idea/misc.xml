@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/a/eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter1/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter1/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter1/eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter2/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter2/service-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter3/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter3/service-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter4/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter4/service-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter4/service-hystrix-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter5/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter5/service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter6/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter6/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter6/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter7/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter7/config-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter7/config-server1/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter7/config-client1/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter8/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter8/config-client-bus/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter9/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter9/eureka-server1/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter9/eureka-server2/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter9/eureka-server3/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter9/eureka-client1/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter10/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter10/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter11/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter11/service-hi2/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter11/service-turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter12/pom.xml" />
+        <option value="$PROJECT_DIR$/scfchapter12/service-gateway/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/scfchapter1/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter1/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter10/service-hi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter11/service-hi2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter11/service-turbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter12/service-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter2/service-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter3/service-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter4/service-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter4/service-hystrix-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter5/service-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter6/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter6/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter7/config-client1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter7/config-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter7/config-server1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter8/config-client-bus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter8/config-client-bus2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter8/config-client-bus2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter8/config-server-bus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter9/eureka-client1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter9/eureka-server1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter9/eureka-server2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scfchapter9/eureka-server3" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-client" />
+        <module name="config-client-bus" />
+        <module name="config-client1" />
+        <module name="config-eureka-server" />
+        <module name="config-server" />
+        <module name="config-server1" />
+        <module name="eureka-client" />
+        <module name="eureka-client1" />
+        <module name="eureka-server" />
+        <module name="eureka-server1" />
+        <module name="eureka-server2" />
+        <module name="eureka-server3" />
+        <module name="scfchapter1" />
+        <module name="scfchapter10" />
+        <module name="scfchapter11" />
+        <module name="scfchapter12" />
+        <module name="scfchapter2" />
+        <module name="scfchapter3" />
+        <module name="scfchapter4" />
+        <module name="scfchapter5" />
+        <module name="scfchapter6" />
+        <module name="scfchapter7" />
+        <module name="scfchapter8" />
+        <module name="scfchapter9" />
+        <module name="service-feign" />
+        <module name="service-gateway" />
+        <module name="service-hi" />
+        <module name="service-hi2" />
+        <module name="service-hystrix" />
+        <module name="service-hystrix-feign" />
+        <module name="service-ribbon" />
+        <module name="service-turbine" />
+        <module name="service-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="a" target="1.5" />
+      <module name="Chapter1" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-client-bus" target="1.8" />
+      <module name="config-client-bus2" target="1.8" />
+      <module name="config-client1" target="1.8" />
+      <module name="config-eureka-server" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="config-server-bus" target="1.8" />
+      <module name="config-server1" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="eureka" target="1.8" />
+      <module name="eureka-client" target="1.8" />
+      <module name="eureka-client1" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-server1" target="1.8" />
+      <module name="eureka-server2" target="1.8" />
+      <module name="eureka-server3" target="1.8" />
+      <module name="scfchapter1" target="1.5" />
+      <module name="scfchapter10" target="1.5" />
+      <module name="scfchapter11" target="1.5" />
+      <module name="scfchapter12" target="1.5" />
+      <module name="scfchapter2" target="1.5" />
+      <module name="scfchapter3" target="1.5" />
+      <module name="scfchapter4" target="1.5" />
+      <module name="scfchapter5" target="1.5" />
+      <module name="scfchapter6" target="1.5" />
+      <module name="scfchapter7" target="1.5" />
+      <module name="scfchapter8" target="1.5" />
+      <module name="scfchapter9" target="1.5" />
+      <module name="service-feign" target="1.8" />
+      <module name="service-gateway" target="1.8" />
+      <module name="service-hi" target="1.8" />
+      <module name="service-hi2" target="1.8" />
+      <module name="service-hystrix" target="1.8" />
+      <module name="service-hystrix-feign" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
+      <module name="service-turbine" target="1.8" />
+      <module name="service-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

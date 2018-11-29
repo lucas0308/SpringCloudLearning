@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: service-gateway
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: false
+      routes:
+        - id: API-A
+          uri: lb://SERVICE-HYSTRIX-FEIGN
+          predicates:
+            - Path=/API-A
+            - Method=GET
+        - id: API-B
+          uri: lb://service-hystrix-feign2
+          predicates:
+          - Path=/API-B
+server:
+  port: 9000
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+logging:
+  level:
+    org.springframework.cloud.gateway: debug
